@@ -64,9 +64,6 @@ Tabela de conteúdos
  <br />
  <sub><b>Stanley Brenner</b></sub></a> <a href="https://stanley-b.vercel.app/" title="Stanley">🚀</a>
 
-
-Feito por Stanley 👋🏽 Entre em contato!
-
 [![Linkedin Badge](https://img.shields.io/badge/-Stanley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanley-brenner-front-end/)](https://www.linkedin.com/in/stanley-brenner-front-end/) 
 [![Gmail Badge](https://img.shields.io/badge/-stanleybrenner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleybrenner@gmail.com)](mailto:stanleybrenner@gmail.com)
 
