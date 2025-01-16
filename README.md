@@ -53,5 +53,3 @@ Tabela de conteúdos
 - [x] Verificação de formulário.
 - [x] Integração com API.
 - [x] Finalização e compra do produto.
-
-<h3><a href="https://github.com/StaanB/EFOOD/blob/main/LICENSE">⚖️LICENÇA</a></h3>
