@@ -55,16 +55,3 @@ Tabela de conteúdos
 - [x] Finalização e compra do produto.
 
 <h3><a href="https://github.com/StaanB/EFOOD/blob/main/LICENSE">⚖️LICENÇA</a></h3>
-
-### 🧑🏻Autor
----
-
-<a href="https://github.com/StaanB">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86057261?v=4" width="100px;" alt="Foto Stanley Brenner"/>
- <br />
- <sub><b>Stanley Brenner</b></sub></a> <a href="https://stanley-b.vercel.app/" title="Stanley">🚀</a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Stanley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanley-brenner-front-end/)](https://www.linkedin.com/in/stanley-brenner-front-end/) 
-[![Gmail Badge](https://img.shields.io/badge/-stanleybrenner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleybrenner@gmail.com)](mailto:stanleybrenner@gmail.com)
-
-
